@@ -27,3 +27,6 @@ Used consistent color coding for easy data interpretation and placed KPIs (e.g.,
 
 ## Dashboard
 ![ecommerce sales dashboard](https://github.com/user-attachments/assets/115eecef-2e45-4dc8-85fa-5eabb91661d7)
+
+## Project Insights
+- Overall Performance: Total Sales: $2,297,200.86 with a +20.62% YoY growth, indicating a strong increase in revenue. Total Profit: $286,397.02, showcasing a solid profit generation. Profit Margin: 12.47%, though showing a -5.15% YoY decrease, highlighting a slight dip in profitability despite higher sales. Number of Orders: Experienced a +28.64% YoY growth, demonstrating a higher volume of customer activity.
