@@ -11,3 +11,5 @@ The dashboard answers the following key performance indicators (KPIs):
 - Which regions and states generate the highest sales and profit?
 - What is the profit margin across different categories?
 - How do customer segments perform in terms of sales and profitability?
+
+- Interactive Dashboard
