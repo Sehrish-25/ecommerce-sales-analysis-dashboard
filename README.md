@@ -21,6 +21,6 @@ Removed duplicates, handled missing values, and standardized date formats which 
 - Data Preparation:
 Added calculated fields, such as profit margin and YoY growth. Furthermore, aggregated data for metrics like total sales, profit, and order count.
 - Dashboard Creation in Excel:
-Used pivot tables and pivot charts to organize the data dynamically.Created interactive visualizations, including:Line charts for YoY growth,Bar charts for category-wise and subcategory-wise profit analysis, Geographic maps for sales distribution by state and Pie charts for segment-wise performance. Added slicers for filtering data by year, region, and customer segment.
+Used pivot tables and pivot charts to organize the data dynamically. Created interactive visualizations, including : Line charts for YoY growth,Bar charts for category-wise and subcategory-wise profit analysis, Geographic maps for sales distribution by state and Pie charts for segment-wise performance. Added slicers for filtering data by year, region, and customer segment.
 - Design and Formatting:
 Used consistent color coding for easy data interpretation and placed KPIs (e.g., sales, profit, orders) prominently at the top for quick insights.
