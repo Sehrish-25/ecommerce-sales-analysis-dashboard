@@ -39,4 +39,4 @@ The E-commerce Sales Analysis Dashboard offers valuable insights for optimizing 
 - Focus marketing efforts on high-performing regions and customer segments.
 - Promote profitable product categories like Technology and Subcategories such as Chairs and Phones.
 - Use YoY growth trends to identify peak sales months and plan inventory accordingly.
-- This dashboard demonstrates how Excel can effectively transform raw data into actionable insights, empowering businesses to make data-driven decisions.
+- This dashboard demonstrates how Microsoft Excel can effectively transform raw data into actionable insights, empowering businesses to make data-driven decisions.
