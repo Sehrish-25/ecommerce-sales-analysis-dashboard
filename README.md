@@ -30,3 +30,6 @@ Used consistent color coding for easy data interpretation and placed KPIs (e.g.,
 
 ## Project Insights
 - Overall Performance: Total Sales: $2,297,200.86 with a +20.62% YoY growth, indicating a strong increase in revenue. Total Profit: $286,397.02, showcasing a solid profit generation. Profit Margin: 12.47%, though showing a -5.15% YoY decrease, highlighting a slight dip in profitability despite higher sales. Number of Orders: Experienced a +28.64% YoY growth, demonstrating a higher volume of customer activity.
+- Category and Subcategory Analysis : Technology contributes the highest profit among categories.Top-performing subcategories include phones, chairs and storage.
+- Regional Performance : The west region generates the most sales, followed by the east. Specific states like California lead in revenue.
+- Segment-wise Insights : Consumers have the highest contribution to profit, followed by Corporate.
